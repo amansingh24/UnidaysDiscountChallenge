@@ -84,7 +84,7 @@ The final price will be stored in a variable called ‘finalPrice’. All of the
 
 This class should use the item class to create objects, set prices and types. Furthermore, it should be used to test the UDC class in terms of adding items to the basket and getting the correct total price. 
 
-##Testing Result##
+## Testing Result ##
 
 Here is an example of a test run of the program. 
 
