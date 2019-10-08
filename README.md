@@ -90,3 +90,7 @@ Here is an example of a test run of the program.
 
 ![Alt text](https://github.com/amansingh24/UnidaysDiscountChallenge/blob/master/screenshot4.png?raw=true)
 
+Here is a run using a more complex basket.
+
+![Alt text](https://github.com/amansingh24/UnidaysDiscountChallenge/blob/master/screenshot5.png?raw=true)
+
